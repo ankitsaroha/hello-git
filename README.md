@@ -1,2 +1,2 @@
 # hello-git
-First git repository.
+This is my first git project.
